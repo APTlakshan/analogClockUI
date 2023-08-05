@@ -1,2 +1,2 @@
 # analogClockUI
-this is a working  analog clock  made with  HTML,CSS,JS 
+this is a working  analog clock  made in HTML,CSS,JS 
